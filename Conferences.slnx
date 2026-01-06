@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/App/">
+    <Project Path="src/App/Conferences.App/Conferences.App.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/" />
+  <Folder Name="/src/Shared/">
+    <Project Path="src/Shared/Conferences.Shared.Abstractions/Conferences.Shared.Abstractions.csproj" />
+    <Project Path="src/Shared/Conferences.Shared.Infrastructure/Conferences.Shared.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>

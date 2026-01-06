@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Shared\Conference.Shared.Infrastructure\Conference.Shared.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Shared\Conferences.Shared.Infrastructure\Conferences.Shared.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

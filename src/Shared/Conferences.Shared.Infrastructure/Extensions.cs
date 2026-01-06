@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
 
-[assembly: System.Runtime.CompilerServices.InternalsVisibleTo("Conference.App")]
+[assembly: System.Runtime.CompilerServices.InternalsVisibleTo("Conferences.App")]
 namespace Conference.Shared.Infrastructure
 {
     internal static class Extensions
