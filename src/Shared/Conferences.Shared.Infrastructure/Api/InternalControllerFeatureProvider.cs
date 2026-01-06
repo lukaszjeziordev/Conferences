@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc.Controllers;
 using System.Reflection;
 
-namespace Conference.Shared.Infrastructure.Api
+namespace Conferences.Shared.Infrastructure.Api
 {
     internal class InternalControllerFeatureProvider : ControllerFeatureProvider
     {

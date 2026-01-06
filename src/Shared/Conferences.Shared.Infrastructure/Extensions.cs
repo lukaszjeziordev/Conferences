@@ -1,11 +1,9 @@
-﻿
-using Conference.Shared.Infrastructure.Api;
+﻿using Conferences.Shared.Infrastructure.Api;
 using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
 
 [assembly: System.Runtime.CompilerServices.InternalsVisibleTo("Conferences.App")]
-namespace Conference.Shared.Infrastructure
+namespace Conferences.Shared.Infrastructure
 {
     internal static class Extensions
     {

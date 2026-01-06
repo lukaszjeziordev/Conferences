@@ -1,4 +1,4 @@
-using Conference.Shared.Infrastructure;
+using Conferences.Shared.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 
